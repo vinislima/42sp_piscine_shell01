@@ -12,8 +12,8 @@ The main shell commands introduced in the **Shell 01** project are:
 - **Complex file handling** - Creates files with unconventional names, testing the ability to handle special characters.
 - **`ls` with filters** - Skips every other line in directory listings to filter output.
 - **`cat`, `sort`, and `pipes`** - Combines commands to manipulate and transform text files, such as reversing and sorting logins in specific ranges.
-
-Exercises:
+<details>
+	<summary>Exercises:</summary>
 
 - [ex01:](https://github.com/vinislima/42sp_piscine_shell01/tree/main/ex01)
     
@@ -44,3 +44,4 @@ Exercises:
     ```bash
     42
     ```
+</details>
