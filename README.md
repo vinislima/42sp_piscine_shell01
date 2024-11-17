@@ -1,5 +1,3 @@
-# Shell01
-
 # [**Shell 01**](https://github.com/vinislima/42sp_piscine_shell01)
 
 > The "Shell 01" project from the 42 school focuses on advanced shell scripting skills. It consists of exercises that develop proficiency in Unix commands and scripting logic, such as listing user groups, finding and counting files, extracting MAC addresses, and manipulating text output. Students are also challenged with creative tasks, like creating files with specific names and performing arithmetic operations using custom numeral systems. The project emphasises careful problem-solving, strict syntax adherence, and collaboration among peers while reinforcing core shell scripting concepts.
